@@ -42,7 +42,7 @@ After all quality controls on the email and attachments are completed, the repor
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/subhodeep/ai4bharat-intelligent-fund-reporting
-   cd n8n-templates
+   cd n8n-templates (will be updated in the repo)
    ```
 
 2. **Install dependencies:**
