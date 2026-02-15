@@ -133,5 +133,5 @@ The data used is from API Sources and licensed under - MIT and other Public Lice
 
 ## Contact
 
-For any queries or support, reach out to teamimmortals811@gmail.com.
+For any queries or support, reach out to subhodeep.sn@gmail.com.
 
