@@ -33,7 +33,7 @@ After all quality controls on the email and attachments are completed, the repor
 ### Prerequisites
 
 - GCP Gemini 2.5 Pro and Imagen LLM
-- Azure Open AI GPT 4.1 (Better to have o3/GPT 5) LLM
+- Azure Open AI GPT 5.2 LLM
 - N8N LCNC Agent Development Platform
 - OS: Github Codespace Linux
 
