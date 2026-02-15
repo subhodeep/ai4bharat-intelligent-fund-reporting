@@ -2,7 +2,7 @@ ance# Intelligent Fund Reporting - Architecture Overview
 
 ## 1. Introduction
 
-This document describes the architectural design for the **Intelligent Fund Reporting** project. The system is an agentic workflow built on the n8n.io platform on AWS, designed to perform automated stock and fund analysis. It combines technical analysis from chart data and quantitative indicators with sentiment analysis from financial news. The final output is a comprehensive, human-readable report delivered as a PDF. This document outlines the logical, physical, and deployment architectures, highlighting all major components and their interactions.
+This document describes the architectural design for the **Intelligent Fund Reporting** project. The system is an agentic workflow built on the n8n.io platform with GCP Vertex AI LLM Models, designed to perform automated stock and fund analysis. It combines technical analysis from chart data and quantitative indicators with sentiment analysis from financial news. The final output is a comprehensive, human-readable report delivered as a PDF. This document outlines the logical, physical, and deployment architectures, highlighting all major components and their interactions.
 
 ---
 
