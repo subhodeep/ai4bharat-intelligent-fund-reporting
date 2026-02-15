@@ -1,4 +1,4 @@
-# Intelligent Fund Reporting - Architecture Overview
+ance# Intelligent Fund Reporting - Architecture Overview
 
 ## 1. Introduction
 
@@ -174,5 +174,5 @@ Below is the Complete Agentic Architecture with complete integration with a robu
 
 ## 10. Contact
 
-For architectural questions or suggestions, contact: **Team Immortals** - teamimmortals811@gmail.com.
+For architectural questions or suggestions, contact: **Team Endurance** - subhodeep.sn@gmail.com.
 
